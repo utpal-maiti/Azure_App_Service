@@ -7,7 +7,10 @@ https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/
 Solution:
 https://github.com/utpal-maiti/AZ-204-DevelopingSolutionsforMicrosoftAzure/tree/master/Allfiles/Labs/01/Starter
 
+Lab 13: Create and configure an Azure web app
 
+https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_13.html
+https://github.com/utpal-maiti/AZ-204-DevelopingSolutionsforMicrosoftAzure/tree/master/Allfiles/Labs/13/Starter/webapp-sam-lab13
 
 
 **Azure App Service** is a fully managed platform as a service (PaaS) offering from Microsoft Azure that enables you to 
