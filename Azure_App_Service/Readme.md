@@ -1,4 +1,3 @@
-
 Guidence 
 https://microsoftlearning.github.io/AZ-204-DevelopingSolutionsforMicrosoftAzure/Instructions/Labs/AZ-204_lab_01.html
 
